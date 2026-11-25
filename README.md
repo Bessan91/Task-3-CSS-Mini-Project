@@ -6,7 +6,7 @@ A responsive landing page built with **HTML5** and **CSS3**, designed as part of
 
 ---
 
-## 📌 Sections Overview
+## Sections Overview
 
 - **Navbar & Hero Section:** Top navigation bar paired with a bold hero area, headline, and call-to-action.
 - **Customer Favorite Section:** Showcase of featured/popular items with clean cards and visual hierarchy.
@@ -16,19 +16,9 @@ A responsive landing page built with **HTML5** and **CSS3**, designed as part of
 
 ---
 
-## ✨ What I Practiced
+##  What I Practiced
 
 - Structuring a multi-section landing page cleanly
 - Styling typography, colors, spacing, and alignment with CSS
 - Building cohesive visual sections from top to bottom
 - Deploying a static site with **GitHub Pages**
-
----
-
-## 📂 Project Structure
-
-```text
-Task-3-CSS-Mini-Project/
-├── index.html
-├── css/        # or style.css
-└── assets/     # images and media
